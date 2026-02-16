@@ -1,0 +1,28 @@
+{
+  "playlist-master-volume.editPlaylist": "Edit Playlist",
+  "playlist-master-volume.masterVolume": "Master Volume",
+  "playlist-master-volume.apply": "Apply",
+  "playlist-master-volume.masterHint": "Sets the volume for every sound in this playlist.",
+  "playlist-master-volume.applied": "Applied master volume {value} to all sounds.",
+  "playlist-master-volume.errorApply": "Failed to apply master volume. See console.",
+  "playlist-master-volume.errorPreSubmit": "Failed to set volumes before updating playlist. See console.",
+
+  "playlist-master-volume.reload.title": "Reload Required",
+  "playlist-master-volume.reload.message": "Module configuration has changed. Reload now to apply?",
+  "playlist-master-volume.reload.now": "Reload Now",
+  "playlist-master-volume.reload.later": "Reload Later",
+
+  "playlist-master-volume.settings.quickEdit.desc": "Show the {gear} shortcut in the Playlists sidebar (only for users who can edit the playlist).",
+  "playlist-master-volume.settings.position.desc": "Choose where the {gear} shortcut is displayed.",
+
+  "playlist-master-volume.settings.quickEdit.hint": "Show the shortcut in the Playlists sidebar (only for users who can edit the playlist).",
+  "playlist-master-volume.settings.position.hint": "Choose where the shortcut is displayed.",
+
+  "playlist-master-volume.settings.quickEdit.name": "Quick Edit",
+  
+  "playlist-master-volume.settings.position.name": "Position",
+
+  "playlist-master-volume.settings.position.choices.left": "Left",
+  "playlist-master-volume.settings.position.choices.right": "Right"
+}
+

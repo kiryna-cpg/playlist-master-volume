@@ -1,0 +1,26 @@
+{
+  "playlist-master-volume.editPlaylist": "Editar lista de reproducción",
+  "playlist-master-volume.masterVolume": "Volumen maestro",
+  "playlist-master-volume.apply": "Aplicar",
+  "playlist-master-volume.masterHint": "Ajusta el volumen de todas las pistas de esta lista de reproducción.",
+  "playlist-master-volume.applied": "Volumen maestro {value} aplicado a todas las pistas.",
+  "playlist-master-volume.errorApply": "No se ha podido aplicar el volumen maestro. Revisa la consola.",
+  "playlist-master-volume.errorPreSubmit": "No se han podido ajustar los volúmenes antes de actualizar la playlist. Revisa la consola.",
+
+  "playlist-master-volume.reload.title": "Recarga necesaria",
+  "playlist-master-volume.reload.message": "La configuración del módulo ha cambiado. ¿Recargar ahora para aplicar los cambios?",
+  "playlist-master-volume.reload.now": "Recargar ahora",
+  "playlist-master-volume.reload.later": "Más tarde",
+
+  "playlist-master-volume.settings.quickEdit.name": "Edición rápida",
+  "playlist-master-volume.settings.position.name": "Posición",
+  "playlist-master-volume.settings.quickEdit.desc": "Muestra el acceso directo {gear} en la barra lateral de Playlists (solo para usuarios con permisos de edición).",
+  "playlist-master-volume.settings.position.desc": "Elige dónde se muestra el acceso directo {gear}.",
+
+  "playlist-master-volume.settings.quickEdit.hint": "Muestra el acceso directo en la barra lateral de Playlists (solo para usuarios con permisos de edición).",
+  "playlist-master-volume.settings.position.hint": "Elige dónde se muestra el acceso directo.",
+
+
+  "playlist-master-volume.settings.position.choices.left": "Izquierda",
+  "playlist-master-volume.settings.position.choices.right": "Derecha"
+}
